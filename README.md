@@ -7,21 +7,18 @@ Linguaggi:
 
 Struttura del progetto:
 
-VivaioBashar/
-│
-├── img/
-│   ├── Main Page/
-│   ├── Piante da interno/
-│   ├── Alberi e arbusti/
-│   └── Bonsai/
-│
-├── css/
-│   └── style.css
-│
-├── index.html
-├── pagina1.html
-├── pagina2.html
-└── pagina3.html
+VivaioBashar
+- img
+  - Main Page
+  - Piante da Interno
+  - Alberi e Arbusti
+  - Bonsai
+- css
+  - style.css
+- index.html
+- pagina1.html
+- pagina2.html
+- pagina3.html
 
 Date di Progresso:
 -14/01/2026 (inizio e creazione dell'index.html con stylesheet css)
