@@ -6,19 +6,17 @@ Linguaggi non ancora utilizzati (JS)
 
 Struttura del progetto
 
-Vivaio
--> img -> Piante da interno  
-
-       -> Alberi e arbusti
-       
-       -> Bonsai
-       
--> css -> style.css
-
--> index.html
-
--> pagina1.html
-
--> pagina2.html
-
--> pagina3.html
+Vivaio/
+│
+├── img/
+│   ├── Piante da interno/
+│   ├── Alberi e arbusti/
+│   └── Bonsai/
+│
+├── css/
+│   └── style.css
+│
+├── index.html
+├── pagina1.html
+├── pagina2.html
+└── pagina3.html
