@@ -8,7 +8,9 @@ Struttura del progetto
 
 Vivaio
 -> img -> Piante da interno  
+
        -> Alberi e arbusti
+       
        -> Bonsai
        
 -> css -> style.css
