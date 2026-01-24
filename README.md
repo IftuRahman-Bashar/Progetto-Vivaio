@@ -14,6 +14,9 @@ Vivaio
 -> css -> style.css
 
 -> index.html
+
 -> pagina1.html
+
 -> pagina2.html
+
 -> pagina3.html
