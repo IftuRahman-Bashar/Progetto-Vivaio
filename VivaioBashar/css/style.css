@@ -1,0 +1,164 @@
+body {
+    margin: 0px;
+    background-color: #F0FFF0;
+}
+
+.title_header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #CFF5B3;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: xx-large;
+    padding: 20px;
+    position: relative;
+}
+
+/* Style per il titolo con logo */
+
+.logo {
+    height: 70px;
+    position: absolute;
+    left: 10px; 
+}
+
+.title {
+    margin: 0 auto;
+}
+
+/* barra di navigazione */
+
+.nav_principale {
+    background-color: #E9FFDB; 
+    display: flex;
+    justify-content: center;
+    gap: 40px; 
+    padding: 15px 0;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+
+.nav_principale a {
+    text-decoration: none;
+    color: #2E4A2C;
+    font-weight: 600;
+    transition: 0.2s;
+}
+
+/* container per index.html */
+
+
+.container {
+    background-color: #F0FFF0;
+    display: flex;
+}
+
+.container div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 24px;
+    width: calc((100% - 60px)/3);
+    justify-content: center;
+    background-color: #2E4A2C;
+}
+
+/* container per le altre pagine */
+
+.page_container {
+    background-color: #F0FFF0;
+    display: flex;
+}
+
+.page_container div:not(.plant_box) {
+    margin: 10px;
+    padding: 20px;
+    font-size: 24px;
+    width: calc((100% - 60px)/2); 
+    justify-content: center;
+    background-color: #2E4A2C;
+}
+
+/* elementi dentro i container dell'index.html  */
+
+.category {
+    text-align: center;
+}
+
+
+.category img {
+    max-width: 100%;
+}
+
+.desc_title {
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 15px;
+    color: #E9FFDB;
+    justify-content: center;
+    align-items: center;
+}
+
+.description {
+    color: #E9FFDB;
+    justify-content: center;
+}
+
+.cooler_link {
+    color: #00F0A9 ;
+}
+
+b {
+    color: #00F0A9 ;
+}
+
+/* scrollbar per le pagine con le piante */
+
+.scroll_bar {
+    overflow-y: scroll;
+    height: 550px;
+}
+  
+.scroll_bar div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 24px;
+    background-color: #2E4A2C;
+    box-sizing: border-box;
+}
+
+/* immagine e descrizione di ogni pianta */
+
+.plant_box {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+    width: 100%;              
+    box-sizing: border-box;
+}
+
+.plant_box img {
+    width: 150px;
+    height: auto;
+    object-fit: cover;
+    flex-shrink: 0;
+    border-radius: 8px;
+}
+
+.plant_description {
+    color: #E9FFDB;
+    font-size: large;
+    line-height: 1.5;
+    display: block;
+    flex: 1;                 
+}
+
+/* footer di tute le pagine */
+
+footer {
+    font-size: large;
+    color: #FFFFFF;
+    background-color: #4D5D53;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0
+}
