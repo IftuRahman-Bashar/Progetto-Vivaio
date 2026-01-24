@@ -6,9 +6,10 @@ Linguaggi non ancora utilizzati (JS)
 
 Struttura del progetto
 
-Vivaio/
+VivaioBashar/
 │
 ├── img/
+│   ├── Main Page/
 │   ├── Piante da interno/
 │   ├── Alberi e arbusti/
 │   └── Bonsai/
