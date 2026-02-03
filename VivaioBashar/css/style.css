@@ -106,13 +106,10 @@ body {
     color: #00F0A9 ;
 }
 
-b {
-    color: #00F0A9 ;
-}
-
 /* scrollbar per le pagine con le piante */
 
 .scroll_bar {
+    overflow: hidden;
     overflow-y: scroll;
     height: 550px;
 }
@@ -126,6 +123,10 @@ b {
 }
 
 /* immagine e descrizione di ogni pianta */
+
+b {
+    color: #00F0A9 ;
+}
 
 .plant_box {
     display: flex;
