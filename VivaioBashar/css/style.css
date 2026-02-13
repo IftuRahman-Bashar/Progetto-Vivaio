@@ -85,6 +85,21 @@ body {
     background-color: #2E4A2C;
 }
 
+.map_container {
+    background-color: #F0FFF0;
+    display: flex;
+}
+
+.map_container div:not(.plant_box) {
+    margin: 10px;
+    padding: 20px;
+    font-size: 24px;
+    width: calc((100% - 60px)); 
+    justify-content: center;
+    background-color: #2E4A2C;
+
+}
+
 /* elementi dentro i container dell'index.html  */
 
 .category {
