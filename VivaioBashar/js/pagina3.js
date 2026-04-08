@@ -9,7 +9,7 @@ function generaBox(stringa ,containerId) {
                 box.className = "plant_box";
         
                 box.innerHTML = `
-                    <img src="http://192.168.4.59:8000/images/${pianta.fileImg}">
+                    <img src="http://172.0.0.1:5501/images/${pianta.fileImg}">
                     <span class="plant_description">
                         <b>${pianta.nome}:</b> ${pianta.descrizione}
                     </span>

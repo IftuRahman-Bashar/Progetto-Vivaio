@@ -1,0 +1,36 @@
+{
+  "bonsaiA": [
+    {
+      "nome": "Ulivo",
+      "descrizione": "Pianta sempreverde, tipica del mediterraneo, la cui attività vegetativa è pressoché continua, con attenuazione nel periodo invernale. Ha crescita lenta ed è molto longevo.",
+      "fileImg": "pag3A-1.bmp"
+    },
+    {
+      "nome": "Gelso",
+      "descrizione": "Originario dell'Asia, viene coltivato da secoli poiché le sue foglie rappresentano la dieta base dei bachi da seta.",
+      "fileImg": "pag3A-2.bmp"
+    },
+    {
+      "nome": "Piracanta",
+      "descrizione": "I bonsai di Piracanta sono bonsai da fiore molto attraenti con i loro fiori bianchi in primavera, seguita da numerosi frutti dal colore rosso fuoco.",
+      "fileImg": "pag3A-3.bmp"
+    }
+  ],
+  "bonsaiB": [
+    {
+      "nome": "Bosso",
+      "descrizione": "Arbusto sempreverde dal portamento arrotondato, cespuglioso, con foglie da ovate ad oblunghe, verde scuro lucido a margine bianco, lunghe fino a 2 cm.",
+      "fileImg": "pag3B-1.bmp"
+    },
+    {
+      "nome": "Leccio",
+      "descrizione": "Si tratta di una quercia sempreverde dal portamento maestoso, che in versione bonsai conserva un aspetto imponente e antico.",
+      "fileImg": "pag3B-2.bmp"
+    },
+    {
+      "nome": "Mirto",
+      "descrizione": "Arbusto perenne da esterno originario della Persia ma diffuso soprattutto nel Salento ed appartenente alla famiglia delle Myrtaceae.",
+      "fileImg": "pag3B-3.bmp"
+    }
+  ]
+}
